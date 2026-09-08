@@ -1,0 +1,46 @@
+SALES REPORT
+
+Basic Statistics
+Total Orders,10
+Total Items,21
+Total Revenue,11534.75
+
+Best Selling Product,Notebook Set
+Quantity,5
+
+Highest Order Value
+Order ID,Product,Customer Name,Total Price
+1002,Office Chair,Anita Sharma,3149.10
+
+Sales by Category
+Category,Total Sales
+Electronics,4724.45
+Furniture,3149.10
+Stationery,300.00
+Home & Living,1843.00
+Accessories,719.20
+Sports & Fitness,799.00
+
+Sales by City
+City,Total Sales
+Delhi,2900.40
+Noida,5848.25
+Gurugram,300.00
+Ghaziabad,1047.00
+Faridabad,1439.10
+
+Sales by Payment Method
+Payment Method,Total Sales
+UPI,3590.10
+Credit Card,4588.20
+Cash on Delivery,1533.10
+Debit Card,1104.15
+Net Banking,719.20
+
+Order Status
+Status,Orders
+Delivered,6
+Pending,1
+Shipped,2
+Cancelled,1
+

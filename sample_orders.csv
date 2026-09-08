@@ -1,0 +1,11 @@
+OrderID,Date,Product,Category,Quantity,UnitPrice,Discount,TotalPrice,CustomerName,City,PaymentMethod,Status
+1001,2026-08-01,Wireless Mouse,Electronics,2,499.00,0.05,948.10,Ravi Kumar,Delhi,UPI,Delivered
+1002,2026-08-02,Office Chair,Furniture,1,3499.00,0.10,3149.10,Anita Sharma,Noida,Credit Card,Delivered
+1003,2026-08-03,Notebook Set,Stationery,5,60.00,0.00,300.00,Vikram Singh,Gurugram,Cash on Delivery,Pending
+1004,2026-08-04,Bluetooth Speaker,Electronics,1,1299.00,0.15,1104.15,Priya Verma,Noida,Debit Card,Delivered
+1005,2026-08-05,Desk Lamp,Home & Living,3,349.00,0.00,1047.00,Suresh Yadav,Ghaziabad,UPI,Shipped
+1006,2026-08-06,Backpack,Accessories,1,899.00,0.20,719.20,Neha Gupta,Delhi,Net Banking,Delivered
+1007,2026-08-07,Water Bottle,Home & Living,4,199.00,0.00,796.00,Amit Joshi,Noida,UPI,Delivered
+1008,2026-08-08,Laptop Stand,Electronics,1,1599.00,0.10,1439.10,Kavita Rani,Faridabad,Credit Card,Cancelled
+1009,2026-08-09,Pen Drive 64GB,Electronics,2,649.00,0.05,1233.10,Rohit Malhotra,Delhi,Cash on Delivery,Delivered
+1010,2026-08-10,Yoga Mat,Sports & Fitness,1,799.00,0.00,799.00,Sneha Reddy,Noida,UPI,Shipped
